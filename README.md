@@ -16,7 +16,7 @@ If a philo doesn't get to eat soon enough, he will starve and die.
 
 **How to Run**:  
 ./philo [number of philos] [death_duration] [eat_duration] [sleep_duration] (OPTIONAL [Number_of_meals]) 
-f.ex. ./philo 4 200 1000 200 5  
+f.ex. ./philo 4 1000 200 200 5  
 
 **Note**: Don't use time durations that are below 60(ms) and cap the number of philos at 200.
 
