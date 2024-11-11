@@ -22,7 +22,7 @@ f.ex. ./philo 4 200 1000 200 5
 
 *************************************************************************************************************************
 
-**The Simulation**:
+**The Simulation**:  
 The program will run on forever with the philos eating, sleeping, thinking, if no issues arise.  
 
 However, the simulation ends if:
