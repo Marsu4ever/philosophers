@@ -33,3 +33,5 @@ However, the simulation ends if:
 
 **Why**:
 The program is a showcase in employing **threads** and **mutexes**.  
+
+![philosopers_on_terminal](./philo/philosopher.png)
